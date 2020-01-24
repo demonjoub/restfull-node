@@ -1,0 +1,15 @@
+.view {
+  width: 180px;
+  height: 180px;
+  margin: 10px;
+  border-width: 1px;
+  background-color: red;
+}
+
+.red {
+  background-color: red;
+}
+
+img {
+  width: 100%;
+}
